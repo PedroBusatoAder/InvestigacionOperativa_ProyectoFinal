@@ -1,0 +1,4 @@
+#Notas para cambios
+
+# --- main.py --- #
+Los costos de instalacion de los cargadores por provincia podrian ser mejorados para que no sean todos iguales
